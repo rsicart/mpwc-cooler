@@ -1,0 +1,28 @@
+/* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
+body {
+  background-color: #006B6B;
+  padding: 0.2em;
+  font: "Helvetica", "Arial", "Verdana", sans-serif; }
+
+#content {
+  background-color: #4D9797;
+  color: black;
+  padding: 0.2em; }
+
+#wrapper {
+  padding: 0.2em; }
+
+.site-breadcrumbs {
+  background-color: #A6CBCB;
+  color: white; }
+
+.portlet-dropzone {
+  background-color: #A6CBCB; }
+
+.portlet-title {
+  background-color: #A6CBCB; }
+
+.portlet-content {
+  background-color: #DBEAEA;
+  color: black; }
+
