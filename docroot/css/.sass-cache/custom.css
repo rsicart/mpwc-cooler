@@ -29,7 +29,6 @@ li.cooler-nav {
 
 a.cooler-nav {
   font-weight: bold;
-  padding: 0.6em;
   width: 6em;
   text-decoration: none;
   color: white;
@@ -39,4 +38,12 @@ a.cooler-nav {
 
 a.cooler-nav:hover {
   background-color: #A6CBCB; }
+
+.cooler-label {
+  padding: 0.2em;
+  background-color: #4D9797;
+  color: white; }
+
+.cooler-field {
+  padding: 0.2em; }
 
